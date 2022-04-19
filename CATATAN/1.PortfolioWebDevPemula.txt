@@ -1,0 +1,27 @@
+5 Project untuk Portfolio Web Developer Pemula
+    1. Personal Portfolio
+        a. Siapa diri kita
+        b. Apa keahlian kita
+        c. Project apa saja yang sudah dibuat
+        d. Cara menghubungi kita
+    2. Website CRUD
+        Autentication and Authorization
+        UI
+        Dashboard
+        Database
+        Hosting
+        Aplikasi yang lengkap (Blogger, E-commerce, Inventory Barang, Perpustakaan)
+        MVC / Mysql / Nosql / Framework disesuaikan bahasa
+    3. Website API (Application Programming Interface)
+        Menggabungkan dari beberapa API
+    4. Visualisasi Algoritma kedalam Website
+        CodeWord
+        HackerRank
+        CodeCamp
+        (Logika Pemrograman, Algoritma Fizzbuzz, Algoritma Sorting, Pathfinding)
+    5. Real Project 
+        User
+        Client
+        (landing page / Catalogue / Brosur / Company Profile)
+        Ex. Jual Product, Jual Jasa, Bidang Usaha (3/5 Project).
+        
